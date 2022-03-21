@@ -1,7 +1,7 @@
 # Profanity Filter Frontend web app
 Basic UI written with React and Typescript using the Profanity Filter API I created.
 
-![Imgur](https://imgur.com/fYizS15)
+![Imgur](https://i.imgur.com/NKtVffV.gif)
 
 ## Options
 - Censor: Censor phrase with asterisk replacing the length of the profanity word
